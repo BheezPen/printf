@@ -2,7 +2,7 @@
 
 ## Concepts
 
-_For this project, look at these concepts:_
+_For this project, look at the concepts below:_
 
 * [Group Projects](https://www.alx-intranet.hbtn.io/concepts/111)
 * [Pair Programming - How To](https://www.alx-intranet.hbtn.io/concepts/121)
