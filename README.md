@@ -17,7 +17,7 @@ Write your own **_printf_** function.
 
 **Read or watch:**
 
-* [Secrets of printf](https://www.cypress.com/file/54761/download)
+* [Secrets of printf](https://cypress.com/file/54761/download)
 * **Group Projects** concept page (_Don't forget to read this_)
 * **Flowcharts** concept page
 
