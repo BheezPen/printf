@@ -5,9 +5,9 @@
 _For this project, look at the concepts below:_
 
 * [Group Projects](https://alx-intranet.hbtn.io/concepts/111)
-* [Pair Programming - How To](https://www.alx-intranet.hbtn.io/concepts/121)
-* [Flowcharts](https://www.alx-intranet.hbtn.io/concepts/130)
-* [Technical Writing](https://www.alx-intranet.hbtn.io/concepts/225)
+* [Pair Programming - How To](https://alx-intranet.hbtn.io/concepts/121)
+* [Flowcharts](https://alx-intranet.hbtn.io/concepts/130)
+* [Technical Writing](https://alx-intranet.hbtn.io/concepts/225)
 
 ## Background Context
 
