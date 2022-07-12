@@ -4,7 +4,7 @@
 
 _For this project, look at the concepts below:_
 
-* [Group Projects](https://www.alx-intranet.hbtn.io/concepts/111)
+* [Group Projects](https://alx-intranet.hbtn.io/concepts/111)
 * [Pair Programming - How To](https://www.alx-intranet.hbtn.io/concepts/121)
 * [Flowcharts](https://www.alx-intranet.hbtn.io/concepts/130)
 * [Technical Writing](https://www.alx-intranet.hbtn.io/concepts/225)
